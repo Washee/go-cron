@@ -1,0 +1,13 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+
+  "packageRules": [
+    {
+      "description": "Group all updates in github workflow",
+      "matchFileNames": [
+        ".github/workflows/build-release.yml"
+      ],
+      "groupName": "Github Workflow"
+    }
+  ]
+}
