@@ -1,4 +1,4 @@
-module github.com/prodrigestivill/go-cron
+module github.com/Washee/go-cron
 
 go 1.25
 
